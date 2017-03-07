@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2017-03-07T04:12:03.435Z</updated>
+  <updated>2017-03-07T04:25:09.492Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -20,7 +20,7 @@
     <link href="http://yoursite.com/2017/03/07/%E5%9F%8E%E9%95%87%E9%81%93%E8%B7%AF%E5%B7%A5%E7%A8%8B/"/>
     <id>http://yoursite.com/2017/03/07/城镇道路工程/</id>
     <published>2017-03-07T03:01:25.000Z</published>
-    <updated>2017-03-07T04:12:03.435Z</updated>
+    <updated>2017-03-07T04:25:09.492Z</updated>
     
     <content type="html"><![CDATA[<h1 id="城镇道路工程"><a href="#城镇道路工程" class="headerlink" title="城镇道路工程"></a>城镇道路工程</h1><h2 id="城镇道路工程的结构与材料"><a href="#城镇道路工程的结构与材料" class="headerlink" title="城镇道路工程的结构与材料"></a>城镇道路工程的结构与材料</h2><h3 id="城镇道路分类"><a href="#城镇道路分类" class="headerlink" title="城镇道路分类"></a>城镇道路分类</h3><ul>
 <li>城镇道路分级<ul>
@@ -131,6 +131,10 @@
     
     </summary>
     
+    
+      <category term="二级市政" scheme="http://yoursite.com/tags/%E4%BA%8C%E7%BA%A7%E5%B8%82%E6%94%BF/"/>
+    
+      <category term="学习笔记" scheme="http://yoursite.com/tags/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
     
   </entry>
   
